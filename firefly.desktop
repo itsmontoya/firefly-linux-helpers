@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Firefly
+Type=Application
+Version=1.0
+Categories=Utility;
+StartupWMClass=Firefly Wallet
+Comment=Firefly - a wallet for IOTA
+Exec=/path/to/firefly-desktop-1.3.0.AppImage --no-sandbox
+Icon=/path/to/firefly-256x256.png
